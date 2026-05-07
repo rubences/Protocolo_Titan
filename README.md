@@ -53,6 +53,16 @@ python -m protocolo_titan.main
 streamlit run src/protocolo_titan/streamlit_app.py
 ```
 
+La interfaz Streamlit ha sido rediseñada para ofrecer una visualización tipo **mission control dashboard**, inspirada en un panel de analítica ferroviaria y RF:
+
+- **Escenario A · Physics & Spectrum**: tarjetas de capa física, Doppler/coherencia, señal temporal y telemetría GSM.
+- **Escenario B · Base Camp**: mapa de clúster N=4, distribución BCCH/TCH, panel de planificación celular, espectro y checklist RED.
+
+La interfaz Streamlit ha sido rediseñada para ofrecer una visualización tipo **mission control dashboard**, inspirada en un panel de analítica ferroviaria y RF: 
+
+- **Escenario A · Physics & Spectrum**: tarjetas de capa física, Doppler/coherencia, señal temporal y telemetría GSM.
+- **Escenario B · Base Camp**: mapa de clúster N=4, distribución BCCH/TCH, panel de planificación celular, espectro y checklist RED.
+
 ---
 
 ## 4. Notebook docente
